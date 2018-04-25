@@ -1,3 +1,15 @@
-body{background-color: lightblue;}
+
 
 body{text-align: center;}
+
+body{
+  background-image:url("http://cdn.hiconsumption.com/wp-content/uploads/2014/09/Swaminarayan-Akshardham-Temple-India.jpg");
+  margin: auto;
+  background-repeat: no-repeat;
+  background-image: width: 1500px;
+}
+
+
+.moggol {
+  clear: right;
+}
